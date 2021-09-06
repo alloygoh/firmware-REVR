@@ -1,7 +1,7 @@
 # Firmware Reverse Engineering and Vulnerability Research
 
 - Asus
-1. AC1200G+
+  - RT-AC1200G+
 
 ### Description
 
